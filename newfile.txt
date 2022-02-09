@@ -1,0 +1,5 @@
+#VIM
+  Vim is a highly configurable text editor build to make creating and changing any kind of text very efficient.
+
+##Vim modes:
+   Three modes are available in vim, they are command mode, insert mode and visual mode.
